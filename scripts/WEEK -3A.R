@@ -1,4 +1,4 @@
-#week-3a
+#week-3B
 # Load dataset
 data(airquality)
 
@@ -52,3 +52,4 @@ barplot(
   legend.text = TRUE,
   main = "Stacked Bar Chart: Ozone vs Solar Radiation"
 )
+
